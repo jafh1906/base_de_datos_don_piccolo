@@ -9,17 +9,17 @@ El proyecto busca reemplazar procesos manuales de registro y seguimiento de pedi
 
 Diseñar e implementar una base de datos relacional que permita:
 
-Registrar clientes y repartidores.
-Gestionar pizzas e ingredientes.
-Registrar pedidos y sus respectivos detalles.
-Controlar los pagos realizados.
-Gestionar los domicilios y repartidores asignados.
-Controlar el stock de ingredientes.
-Mantener un historial de cambios en los precios de las pizzas.
-Obtener información mediante funciones, procedimientos y vistas.
-Automatizar determinadas operaciones mediante triggers.
-Identificar clientes frecuentes.
-Consultar información útil para la toma de decisiones.
+-Registrar clientes y repartidores.
+-Gestionar pizzas e ingredientes.
+-Registrar pedidos y sus respectivos detalles.
+-Controlar los pagos realizados.
+-Gestionar los domicilios y repartidores asignados.
+-Controlar el stock de ingredientes.
+-Mantener un historial de cambios en los precios de las pizzas.
+-Obtener información mediante funciones, procedimientos y vistas.
+-Automatizar determinadas operaciones mediante triggers.
+-Identificar clientes frecuentes.
+-Consultar información útil para la toma de decisiones.
 
 🛠️ Tecnologías utilizadas
 MySQL
